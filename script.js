@@ -6,7 +6,7 @@ Adding elements to the map (map controls and basic legend)
 /*--------------------------------------------------------------------
 INITIALIZE MAP
 --------------------------------------------------------------------*/
-mapboxgl.accessToken = 'pk.eyJ1IjoibGdzbWl0aCIsImEiOiJja29uNGs1cmYwYnN2MnBwMzM2cDQyN2NrIn0.lZvjUUK8Pc2JDq0tuSRrKQ'; //***ADD YOUR ACCESS TOKEN HERE***
+mapboxgl.accessToken = ''; //***ADD YOUR ACCESS TOKEN HERE***
 
 const map = new mapboxgl.Map({
     container: 'my-map',
