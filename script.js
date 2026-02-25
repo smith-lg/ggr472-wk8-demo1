@@ -71,7 +71,7 @@ and use css to position
 // map.on('load', () => {
 //     map.addSource('provterr-data', {
 //         'type': 'geojson',
-//         'data': 'https://raw.githubusercontent.com/smith-lg/ggr472-wk6-demo/main/data/can-provterr.geojson'
+//         'data': 'https://raw.githubusercontent.com/smith-lg/ggr472-wk8-demo1/refs/heads/main/data/can-provterr.geojson'
 //     });
 
 //     map.addLayer({
